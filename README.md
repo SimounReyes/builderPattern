@@ -17,3 +17,7 @@ public User(String firstName, String lastName, String email,
 * Data consistency: Changes to user profiles after registration can cause unexpected issues due to mutable fields.
 
 Implement solution using the Builder Pattern to address the issue.
+
+## UML Diagram
+
+![Blank diagram (6)](https://github.com/SimounReyes/builderPattern/assets/142649580/f68d69ad-462e-4a5a-ac86-535288f6be00)
